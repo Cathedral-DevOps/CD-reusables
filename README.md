@@ -6,3 +6,5 @@ How can I use the contents of this repo????
     - You credit Cathedral (cathedral.dev) within the code and everywhere your published project will be shown.
   
 Otherwise, I will contact you to take this down.
+Contact: cathedralsocial.tech@gmail.com
+All inquiries regarding code/coding/requesting projects ONLY.
